@@ -1,0 +1,12 @@
+---
+global:
+  name: Data-Domain-Net
+releases:
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
+      - original version
+      - added documentation
+      - updated t/perlcriticrc
+    date: 2007-11-21T18:21:47Z
+    tags: []
+    version: 0.01
