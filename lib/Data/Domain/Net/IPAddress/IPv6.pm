@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 use base 'Data::Domain::Net::IPAddress';
@@ -93,7 +93,7 @@ please use the C<datadomainnet> tag.
 
 =head1 VERSION 
                    
-This document describes version 0.01 of L<Data::Domain::Net::IPAddress::IPv6>.
+This document describes version 0.02 of L<Data::Domain::Net::IPAddress::IPv6>.
 
 =head1 BUGS AND LIMITATIONS
 

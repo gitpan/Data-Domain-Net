@@ -12,6 +12,7 @@ inc/Module/Install/StandardTests.pm
 inc/Module/Install/Template.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
+inc/Test/CompanionClasses.pm
 inc/Test/Compile.pm
 inc/Test/More.pm
 inc/UNIVERSAL/require.pm

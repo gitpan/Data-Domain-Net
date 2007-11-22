@@ -8,6 +8,7 @@ perl_version '5.006';
 requires 'Data::Domain::SemanticAdapter';
 requires 'Data::Semantic::Net';
 
+build_requires 'Test::CompanionClasses' => '0.03';
 build_requires 'Test::More' => '0.70';
 
 process_templates(

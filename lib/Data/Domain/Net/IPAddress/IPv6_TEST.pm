@@ -6,7 +6,7 @@ use Data::Domain::Net ':all';
 use Test::More;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 use base qw(
@@ -113,7 +113,7 @@ please use the C<datadomainnet> tag.
 
 =head1 VERSION 
                    
-This document describes version 0.01 of L<Data::Domain::Net::IPAddress::IPv6_TEST>.
+This document describes version 0.02 of L<Data::Domain::Net::IPAddress::IPv6_TEST>.
 
 =head1 BUGS AND LIMITATIONS
 
